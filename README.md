@@ -1,6 +1,7 @@
 COVID-19 Exploratory Data Analysis
 
  Project Overview
+
 This project performs Exploratory Data Analysis on COVID-19 dataset to understand trends in cases, deaths, and recoveries across countries. The goal is to extract insights using Python data analysis tools.
 
  Tools & Libraries Used
